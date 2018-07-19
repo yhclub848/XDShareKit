@@ -7,6 +7,7 @@
 //
 
 #import "JYMJRefresh.h"
+#import "MJRefresh.h"
 
 @implementation JYMJRefresh
 
